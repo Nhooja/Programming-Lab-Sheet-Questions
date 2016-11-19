@@ -18,6 +18,6 @@ void main(){
 	printf("Enter base of a triangle: \n");
 	scanf("%f", &base);
 	area=height*base/2;
-	printf("The area of a triangle is: %f", area);
+	printf("The area of a triangle is: %.2f", area);
 	getch();
 }
