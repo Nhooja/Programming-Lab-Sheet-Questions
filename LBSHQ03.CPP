@@ -2,7 +2,7 @@
 Student Name: Nhooja Sayami
 Subject: Programming Fundamental
 Roll: 14
-Labsite Question No. 02 "Write a program to print sum of two numbers"
+Labsite Question No. 03 "Write a program to print product of two numbers"
 Programme: BCS
 Date: 15 November 2016
 */
