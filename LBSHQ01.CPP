@@ -10,8 +10,13 @@ Date: 15 November 2016
 #include<stdio.h>
 #include<conio.h>
 
-void main(){
-	clrscr();
-	printf("Hello World !!!");
-	getch();
+int main()
+{
+    FILE *fp;
+    char new[20] = "TestDataInput";
+
+    fp = fopen("new1.txt","w");
+    fputc(new[20], fp);
+
+    return 0;
 }
